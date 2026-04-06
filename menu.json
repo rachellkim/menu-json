@@ -823,43 +823,44 @@
       ]
     },
     {
-      "id": "filtreturk",
-      "name": "Filtre & Türk kahvesi",
-      "slug": "filtreturk",
-      "products": [
-        {
-          "id": "filtre-kahve",
-          "name": "Filtre Kahve",
-          "price": 155,
-          "price_display": "155₺",
-          "description_tr": "Filtre yöntemiyle demlenmiş yumuşak kahve",
-          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474827/filtrekahve_oo8xay.jpg"
-        },
-        {
-          "id": "türk-kahvesi-",
-          "name": "Türk Kahvesi ",
-          "price": 125,
-          "price_display": "125₺",
-          "description_tr": "Geleneksel Türk kahvesi",
-          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775475134/tu%CC%88rkkahvesi_vnffln.jpg"
-        },
-        {
-          "id": "double-türk-kahvesi",
-          "name": "Double Türk Kahvesi",
-          "price": 150,
-          "price_display": "150₺",
-          "description_tr": "Geleneksel Türk kahvesi",
-          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775475134/tu%CC%88rkkahvesi_vnffln.jpg"
-        {
-          "id": "bihter-sahlep",
-          "name": "Bihter sahlep",
-          "price": 145,
-          "price_display": "145₺",
-          "description_tr": null,
-          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775475096/salep_x986im.jpg"
-        }
-      
+  "id": "filtreturk",
+  "name": "Filtre & Türk kahvesi",
+  "slug": "filtreturk",
+  "products": [
+    {
+      "id": "filtre-kahve",
+      "name": "Filtre Kahve",
+      "price": 155,
+      "price_display": "155₺",
+      "description_tr": "Filtre yöntemiyle demlenmiş yumuşak kahve",
+      "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474827/filtrekahve_oo8xay.jpg"
     },
+    {
+      "id": "türk-kahvesi-",
+      "name": "Türk Kahvesi ",
+      "price": 125,
+      "price_display": "125₺",
+      "description_tr": "Geleneksel Türk kahvesi",
+      "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775475134/tu%CC%88rkkahvesi_vnffln.jpg"
+    },
+    {
+      "id": "double-türk-kahvesi",
+      "name": "Double Türk Kahvesi",
+      "price": 150,
+      "price_display": "150₺",
+      "description_tr": "Geleneksel Türk kahvesi",
+      "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775475134/tu%CC%88rkkahvesi_vnffln.jpg"
+    },
+    {
+      "id": "bihter-sahlep",
+      "name": "Bihter sahlep",
+      "price": 145,
+      "price_display": "145₺",
+      "description_tr": null,
+      "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775475096/salep_x986im.jpg"
+    }
+  ]
+}
     {
       "id": "sogukbazli",
       "name": "Espresso Bazlı Soğuklar",
