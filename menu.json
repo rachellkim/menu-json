@@ -25,7 +25,7 @@
           "price": 55,
           "price_display": "55₺",
           "description_tr": null,
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474800/demlemecay_weqqty.jpg"
         },
         {
           "id": "fincan-çay",
@@ -81,7 +81,7 @@
           "price": 85,
           "price_display": "85₺",
           "description_tr": "Kelebek bezelyesi çiçeğinden hazırlanan, doğal rengiyle dikkat çeken hafif ve ferah bitki çayı",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474707/bluebutterfly_ju5tk2.jpg"
         }
       ]
     },
@@ -102,7 +102,7 @@
           "price": 190,
           "price_display": "190₺",
           "description_tr": null,
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474793/c%CC%A7ileklimilkshake_ibtxg4.jpg"
         },
         {
           "id": "çikolatalı-milkshake",
@@ -110,7 +110,7 @@
           "price": 190,
           "price_display": "190₺",
           "description_tr": null,
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474778/c%CC%A7ikolatamilkshake_isybcv.jpg"
         },
         {
           "id": "sıkma-portakal-suyu",
@@ -667,7 +667,7 @@
           "price": 145,
           "price_display": "145₺",
           "description_tr": "Yoğun aromalı tek shot espresso\n",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474795/espresssoc_aqoyn2.png"
         },
         {
           "id": "double-espresso",
@@ -683,7 +683,7 @@
           "price": 165,
           "price_display": "165₺",
           "description_tr": "Espresso ve sıcak su ile hazırlanan hafif içimli kahve",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474704/americano_awgwcb.jpg"
         },
         {
           "id": "latte",
@@ -691,7 +691,7 @@
           "price": 175,
           "price_display": "175₺",
           "description_tr": "Espresso ve buharda ısıtılmış süt",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474999/latte_m7m385.jpg"
         },
         {
           "id": "cappuccino",
@@ -707,7 +707,7 @@
           "price": 175,
           "price_display": "175₺",
           "description_tr": "Az köpüklü, yoğun sütlü kahve",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474805/flatwhite_i2cflc.png"
         },
         {
           "id": "cortado",
@@ -723,7 +723,7 @@
           "price": 175,
           "price_display": "175₺",
           "description_tr": "Sıcak süt ve Espresso (yumuşak içimli)",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474991/latte_macchiato_puhujw.jpg"
         },
         {
           "id": "espresso-macchiato",
@@ -731,7 +731,7 @@
           "price": 155,
           "price_display": "155₺",
           "description_tr": "Espresso ve az miktarda süt köpüğü (yoğun aromalı)",
-          "image": null
+          "image":" https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474806/espressomacchiato_wpffg3.jpg"
         },
         {
           "id": "i̇lave-şurup-",
@@ -762,7 +762,7 @@
           "price": 185,
           "price_display": "185₺",
           "description_tr": "Espresso,süt ve cookie şurubu",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474779/cookie_latte_gm1cju.jpg"
         },
         {
           "id": "bubblegum-latte",
@@ -770,7 +770,7 @@
           "price": 185,
           "price_display": "185₺",
           "description_tr": "Espresso,süt ve bubblegum şurubu",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474714/bubblegumlatte_e9vd30.jpg"
         },
         {
           "id": "chai-tea-latte",
@@ -778,7 +778,7 @@
           "price": 185,
           "price_display": "185₺",
           "description_tr": "Siyah çay,süt ve chai baharat karışımı\n(tarçın, zencefil, karanfil, kakule)",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474751/chaitealattejpg_act437.jpg"
         },
         {
           "id": "belgium-mocha",
@@ -786,7 +786,7 @@
           "price": 185,
           "price_display": "185₺",
           "description_tr": "Espresso, süt ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474670/belgiummocha_tc5zf0.png"
         },
         {
           "id": "coconut-mocha",
@@ -794,7 +794,7 @@
           "price": 185,
           "price_display": "185₺",
           "description_tr": "Espresso,süt, coconut şurubu,belçika şurubu",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474740/coconutmocha_rkh3vr.jpg"
         },
         {
           "id": "belgium-hot-chocolate-",
@@ -802,7 +802,7 @@
           "price": 185,
           "price_display": "185₺",
           "description_tr": "Süt ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474670/belgiummocha_tc5zf0.png"
         },
         {
           "id": "mocha",
@@ -810,7 +810,7 @@
           "price": 190,
           "price_display": "190₺",
           "description_tr": "Espresso, süt ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474670/belgiummocha_tc5zf0.png"
         },
         {
           "id": "white-mocha",
@@ -857,7 +857,7 @@
           "price": 145,
           "price_display": "145₺",
           "description_tr": null,
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775475096/salep_x986im.jpg"
         }
       ]
     },
@@ -872,7 +872,7 @@
           "price": 180,
           "price_display": "180₺",
           "description_tr": "Soğuk süt ve espresso",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474886/ice_latte_czusdf.jpg"
         },
         {
           "id": "iced-americano",
@@ -880,7 +880,7 @@
           "price": 170,
           "price_display": "170₺",
           "description_tr": "Espresso üzerine soğuk su ve buz",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474861/iceamericano_wt23k9.jpg"
         },
         {
           "id": "ice-mocha",
@@ -896,7 +896,7 @@
           "price": 195,
           "price_display": "195₺",
           "description_tr": "Beyaz çikolatalı soğuk kahve",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474957/icewhitemocha_mfbo5c.jpg"
         },
         {
           "id": "iced-filtre-kahve",
@@ -904,7 +904,7 @@
           "price": 150,
           "price_display": "150₺",
           "description_tr": "Demlenmiş filtre kahve ",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474927/icefiltre_mfq29y.jpg"
         },
         {
           "id": "iced-sütlü-filtre-kahve",
@@ -912,7 +912,7 @@
           "price": 160,
           "price_display": "160₺",
           "description_tr": "Demlenmiş filtre kahve ve soğuk süt",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474926/icematcha_pzsnt4.jpg"
         },
         {
           "id": "iced-caramel-latte",
@@ -943,7 +943,7 @@
           "price": 255,
           "price_display": "255₺",
           "description_tr": "Matcha çayının doğal, yoğun ve bitkisel aroması ön planda",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474926/icematcha_pzsnt4.jpg"
         },
         {
           "id": "ice-berry-matcha",
@@ -1006,7 +1006,7 @@
           "price": 210,
           "price_display": "210₺",
           "description_tr": "Soğuk kahve,süt,çilek şurubu ve kremamsı frappe",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474791/c%CC%A7ilekli_frappe_v06ehy.jpg"
         },
         {
           "id": "çikolatalı-frappe",
@@ -1014,7 +1014,7 @@
           "price": 210,
           "price_display": "210₺",
           "description_tr": "Soğuk kahve,süt,çikolata sosu ve kremamsı frappe",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474778/c%CC%A7ikolatamilkshake_isybcv.jpg"
         }
       ]
     },
@@ -1029,7 +1029,7 @@
           "price": 235,
           "price_display": "235₺",
           "description_tr": "Matcha çayının doğal, yoğun ve bitkisel aroması ön planda",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775475018/matcha_egx852.jpg"
         },
         {
           "id": "matcha-berry",
@@ -1037,7 +1037,7 @@
           "price": 235,
           "price_display": "235₺",
           "description_tr": "Matcha çayının yoğun aroması, orman meyvelerinin hafif ekşi ve ferah tadıyla dengeleniyor",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775475042/matchaberry_lnzo51.jpg"
         },
         {
           "id": "matcha-mango",
