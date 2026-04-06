@@ -17,7 +17,7 @@
           "price": 45,
           "price_display": "45₺",
           "description_tr": null,
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506651/Ekran_Resmi_2026-04-06_23.17.25_yond0k.png"
         },
         {
           "id": "çay-(bardak)",
@@ -33,7 +33,7 @@
           "price": 65,
           "price_display": "65₺",
           "description_tr": null,
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506556/Ekran_Resmi_2026-04-06_23.15.49_gjpci6.png"
         },
         {
           "id": "winterfell-",
@@ -41,7 +41,7 @@
           "price": 85,
           "price_display": "85₺",
           "description_tr": "Kış baharatları ve meyve aromalarıyla hazırlanan, ısıtan ve aromatik bitki çayı.",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506580/Ekran_Resmi_2026-04-06_23.16.14_azptju.png"
         },
         {
           "id": "purple-earl-grey",
@@ -49,7 +49,7 @@
           "price": 85,
           "price_display": "85₺",
           "description_tr": "Earl Grey'in klasik bergamot aroması, mor bitki özleriyle zenginleştirilmiş aromatik siyah çay",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506620/Ekran_Resmi_2026-04-06_23.16.54_t7010h.png"
         },
         {
           "id": "jasmine",
@@ -57,7 +57,7 @@
           "price": 85,
           "price_display": "85₺",
           "description_tr": "Yasemin çiçeğinin zarif aromasıyla harmanlanmış, hafif ve ferahlatıcı yeşil çay",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506607/Ekran_Resmi_2026-04-06_23.16.38_a0mjrf.png"
         },
         {
           "id": "threrapie",
@@ -65,7 +65,7 @@
           "price": 85,
           "price_display": "85₺",
           "description_tr": "Seçilmiş doğal bitkilerden oluşan kafeinsiz bitki çayı.",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506592/Ekran_Resmi_2026-04-06_23.16.26_kh3bn5.png"
         },
         {
           "id": "green-mango",
@@ -73,7 +73,7 @@
           "price": 85,
           "price_display": "85₺",
           "description_tr": "Yeşil çayın ferah aroması, mango notalarıyla buluşan hafif ve canlandırıcı çay.",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506842/Ekran_Resmi_2026-04-06_23.20.35_ey1otf.png"
         },
         {
           "id": "blue-butterfly",
@@ -118,7 +118,7 @@
           "price": 140,
           "price_display": "140₺",
           "description_tr": null,
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506905/Ekran_Resmi_2026-04-06_23.21.38_zr9wvi.png"
         },
         {
           "id": "nar-suyu",
@@ -126,7 +126,7 @@
           "price": 140,
           "price_display": "140₺",
           "description_tr": null,
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506919/Ekran_Resmi_2026-04-06_23.21.52_hpm7i2.png"
         },
         {
           "id": "churchill",
@@ -181,7 +181,7 @@
           "price": 375,
           "price_display": "375₺",
           "description_tr": "Özel bihter kreması,lotus bisküvisi,lotus kreması,fındık parçaları ve muz",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506673/Ekran_Resmi_2026-04-06_23.17.47_mocbnc.png"
         },
         {
           "id": "anteplim",
@@ -189,7 +189,7 @@
           "price": 410,
           "price_display": "410₺",
           "description_tr": "Özel bihter kreması,antep fıstığı kreması, baklava çıtırı ve antep fıstığı",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775506695/Ekran_Resmi_2026-04-06_23.18.08_vq6gvm.png"
         },
         {
           "id": "menekşe",
@@ -197,7 +197,7 @@
           "price": 360,
           "price_display": "360₺",
           "description_tr": "Özel bihter kreması, manolya tozu,çilek, beyaz damla çikolata, çilek kreması",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507008/Ekran_Resmi_2026-04-06_23.23.20_raf8ll.png"
         },
         {
           "id": "napolyon",
@@ -205,7 +205,7 @@
           "price": 360,
           "price_display": "360₺",
           "description_tr": "Özel bihter kreması,napolyon kıtırı,çilek, beyaz damla çikolta,antep fıstığı, belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507019/Ekran_Resmi_2026-04-06_23.23.33_ejean1.png"
         },
         {
           "id": "bihter-tiramisu",
@@ -213,7 +213,7 @@
           "price": 360,
           "price_display": "360₺",
           "description_tr": "Özel bihter kreması, espresso, kedi dili bisküvi ve kakao",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507033/Ekran_Resmi_2026-04-06_23.23.45_p2icav.png"
         },
         {
           "id": "bihter-sebastian",
@@ -221,7 +221,7 @@
           "price": 390,
           "price_display": "390₺",
           "description_tr": "Peynir Kreması ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507044/Ekran_Resmi_2026-04-06_23.23.58_dvlrnc.png"
         },
         {
           "id": "sarmaş-dolaş",
@@ -229,7 +229,7 @@
           "price": 420,
           "price_display": "420₺",
           "description_tr": "Özel bihter kreması,bihter krep, muz, çilek, krep kıtırı, antep fıstığı ve belçika çikotası",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507110/Ekran_Resmi_2026-04-06_23.25.03_tcputa.png"
         },
         {
           "id": "bihter-kruvasan",
@@ -237,7 +237,7 @@
           "price": 420,
           "price_display": "420₺",
           "description_tr": "Özel bihter kreması, çilek,muz,antep fıstığı tozu ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507122/Ekran_Resmi_2026-04-06_23.25.16_yqorla.png"
         },
         {
           "id": "efsun",
@@ -245,7 +245,7 @@
           "price": 390,
           "price_display": "390₺",
           "description_tr": "Bihter ıslak kek, özel bihter kreması, muz,çilek,antep fıstığı ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507132/Ekran_Resmi_2026-04-06_23.25.27_bjdfex.png"
         },
         {
           "id": "aşkı-bihter",
@@ -253,7 +253,7 @@
           "price": 420,
           "price_display": "420₺",
           "description_tr": "Özel bihter kreması,bihter çıtır profiterol,çilek,muz,antep fıstığı ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507144/Ekran_Resmi_2026-04-06_23.25.38_mihduk.png"
         },
         {
           "id": "bihter-lotuslu-roll",
@@ -261,7 +261,7 @@
           "price": 420,
           "price_display": "420₺",
           "description_tr": "Özel bihter kreması,lotus kreması, lotus bisküvisi, lotus tozu",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507217/Ekran_Resmi_2026-04-06_23.26.50_kn0mbn.png"
         },
         {
           "id": "aşkı-bomba",
@@ -269,7 +269,7 @@
           "price": 360,
           "price_display": "360₺",
           "description_tr": "Özel bihter kreması, çıtır profiterol topları, antep fıstığı tozu ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507228/Ekran_Resmi_2026-04-06_23.27.02_vr06dk.png"
         },
         {
           "id": "mualla",
@@ -277,7 +277,7 @@
           "price": 390,
           "price_display": "390₺",
           "description_tr": "Özel bihter kreması, çıtır milföy, çilek,pudra şekeri ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507248/Ekran_Resmi_2026-04-06_23.27.22_mouhuy.png"
         },
         {
           "id": "müjde",
@@ -285,7 +285,7 @@
           "price": 390,
           "price_display": "390₺",
           "description_tr": "Özel bihter kreması, krep kıtırı, muz,çilek,beyaz damla çikolata,antep fıstığı ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507260/Ekran_Resmi_2026-04-06_23.27.34_llgrx7.png"
         },
         {
           "id": "sosyete",
@@ -293,7 +293,7 @@
           "price": 390,
           "price_display": "390₺",
           "description_tr": "Beyaz maraş dondurma, bihter ıslak kek, çilek, fındık parçaları, antep fıstığı tozu ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507384/Ekran_Resmi_2026-04-06_23.29.38_z8uuru.png"
         },
         {
           "id": "aşkı-roll",
@@ -301,7 +301,7 @@
           "price": 420,
           "price_display": "420₺",
           "description_tr": "Özel bihter kreması, çilek, antep fıstığı parçaları, antep fıstığı tozu, krep kıtırı ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507417/Ekran_Resmi_2026-04-06_23.30.10_p9wd4c.png"
         },
         {
           "id": "bihter-karam",
@@ -309,7 +309,7 @@
           "price": 420,
           "price_display": "420₺",
           "description_tr": "Özel browni mix,beyaz maraş dondurması,çilek,antep fıstığı tozu ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507430/Ekran_Resmi_2026-04-06_23.30.23_wmzolp.png"
         },
         {
           "id": "efsun-yaz-(dondurmalı)",
@@ -317,7 +317,7 @@
           "price": 420,
           "price_display": "420₺",
           "description_tr": "Bihter ıslak kek,özel bihter kreması, muz,çilek,antep fıstığı,beyaz maraş dondurması ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507447/Ekran_Resmi_2026-04-06_23.30.41_rxjoaj.png"
         },
         {
           "id": "yankı",
@@ -325,7 +325,7 @@
           "price": 390,
           "price_display": "390₺",
           "description_tr": "Bihter browni,çilek,muz, krep çıtırı ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507461/Ekran_Resmi_2026-04-06_23.30.55_zuyogq.png"
         },
         {
           "id": "cilveli",
@@ -333,7 +333,7 @@
           "price": 375,
           "price_display": "375₺",
           "description_tr": "Bihter özel krema ,bihter ıslak kek, frambuazlı ganaj,frambuaz,çilek,böğürtlen,frambuaz sos",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507540/Ekran_Resmi_2026-04-06_23.32.14_elcpi3.png"
         },
         {
           "id": "aşkı-spoonful",
@@ -341,7 +341,7 @@
           "price": 360,
           "price_display": "360₺",
           "description_tr": "Bihter özel krema, bihter ıslak kek, fındık ve belçika çikolatası",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507551/Ekran_Resmi_2026-04-06_23.32.25_zcm1v2.png"
         },
         {
           "id": "sufle",
@@ -349,7 +349,7 @@
           "price": 360,
           "price_display": "360₺",
           "description_tr": "Bihter özel krema, antep fıstığı kreması, bihter ıslak ",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507579/Ekran_Resmi_2026-04-06_23.32.52_cos4gl.png"
         },
         {
           "id": "mimoza",
@@ -357,7 +357,7 @@
           "price": 360,
           "price_display": "360₺",
           "description_tr": "Bihter özel krema, antep fıstığı kreması,bihter ıslak kek, çilek,siyah damla çikolata",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507567/Ekran_Resmi_2026-04-06_23.32.40_lqkpvl.png"
         },
         {
           "id": "aşkı-manzaram",
@@ -365,7 +365,7 @@
           "price": 1100,
           "price_display": "1100₺",
           "description_tr": "Bihter manaza minik kruvasan,waffle dilimleri,profiterol topları,çilek,muz,brownie,siyah-beyaz-bitter ve ruby belçika çikolataları (2-4 kişilik)",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507609/Ekran_Resmi_2026-04-06_23.33.23_cuy4yw.png"
         },
         {
           "id": "aşk'ı-waffle",
@@ -373,7 +373,7 @@
           "price": 420,
           "price_display": "420₺",
           "description_tr": "Özel bihter waffle hamuru,çilek,muz,krep kıtırı,beyaz damla çikolata, antep fıstığı tozu,antep fıstığı parrçaları,file badem ve belçika çikolatası",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507623/Ekran_Resmi_2026-04-06_23.33.37_rfzimy.png"
         },
         {
           "id": "bihter-maraş-dondurma-porsiyon",
@@ -381,7 +381,7 @@
           "price": 180,
           "price_display": "180₺",
           "description_tr": "Beyaz maraş dondurması,çilek,antep fıstığı tozu",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507639/Ekran_Resmi_2026-04-06_23.33.52_gqqwo7.png"
         },
         {
           "id": "manolya",
@@ -389,7 +389,7 @@
           "price": 360,
           "price_display": "360₺",
           "description_tr": "Bihter özel kreması, bihter ıslak kek, çilek,siyah damla çikolata",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507651/Ekran_Resmi_2026-04-06_23.34.05_u0s53n.png"
         }
       ]
     },
@@ -404,7 +404,7 @@
           "price": 430,
           "price_display": "430₺",
           "description_tr": "Sıcak kruvasan arasına hindi füme,çeri domates salatalık,kıvırcık,zeytin ,akdeniz yeşilliği ve bihter özel sos ile servis edilir.",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507758/Ekran_Resmi_2026-04-06_23.35.51_lm5pzi.png"
         },
         {
           "id": "macar-kruvasan",
@@ -412,7 +412,7 @@
           "price": 430,
           "price_display": "430₺",
           "description_tr": "Sıcak kruvasan arasına macar salam,omlet,çeri domates,salatalık,kıvırcık,zeytin,akdeniz yeşilliği ve bihter özel sos ile servis edilir.",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507771/Ekran_Resmi_2026-04-06_23.36.04_mjsymz.png"
         },
         {
           "id": "pastırma-kruvasan",
@@ -420,7 +420,7 @@
           "price": 450,
           "price_display": "450₺",
           "description_tr": "Sıcak kruvasan arasına özel kayseri pastırma,cheddar peynir,roka,kıvırcık,zeytin,akdeniz yeşilliği ve bihter özel sos ile servis edilir.",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507780/Ekran_Resmi_2026-04-06_23.36.14_co8baf.png"
         },
         {
           "id": "jambon-kruvasan",
@@ -428,7 +428,7 @@
           "price": 430,
           "price_display": "430₺",
           "description_tr": "Sıcak kruvasan arasına jampon dilimleri,domates kurusu,beyaz peynir dilimleri,zeytin ezmesi,labne,kıvırcık,zeytin,akdeniz yeşilliği ve bihter özel sos ile servis edilir.",
-          "image": null
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507790/Ekran_Resmi_2026-04-06_23.36.24_gxnb25.png"
         },
         {
           "id": "bal-kruvasan",
@@ -436,7 +436,7 @@
           "price": 400,
           "price_display": "400₺",
           "description_tr": "Sıcak kruvasan,pankek,reçel,bal,belçika çikolatası,kaymak ve çilek dilimleri ile servis edilir.",
-          "image": null
+          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775507870/Ekran_Resmi_2026-04-06_23.37.42_uk1avz.png"
         }
       ]
     },
