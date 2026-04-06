@@ -110,7 +110,7 @@
           "price": 190,
           "price_display": "190₺",
           "description_tr": null,
-          "image":"https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474778/c%CC%A7ikolatamilkshake_isybcv.jpg"
+          "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775474778/c%CC%A7ikolatamilkshake_isybcv.jpg"
         },
         {
           "id": "sıkma-portakal-suyu",
@@ -858,7 +858,7 @@
           "description_tr": null,
           "image": "https://res.cloudinary.com/dcsixrbqw/image/upload/v1775475096/salep_x986im.jpg"
         }
-      ]
+      
     },
     {
       "id": "sogukbazli",
